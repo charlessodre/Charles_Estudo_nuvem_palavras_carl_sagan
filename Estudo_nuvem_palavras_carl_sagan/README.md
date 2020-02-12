@@ -13,5 +13,6 @@ O livro usado nesse estudo foi retirado do site: https://archive.org/stream/OMun
 
 O arquivo de stopwods utilizado neste estudo está disponível em https://gist.github.com/alopes/5358189. Stop Words by @alopes alopes/stopwords.txt
 
+<p> <b>Exemplo de imagem "nuvem de palavras" </b></p>
 
 ![](wc_carl_sagan_04.png)
